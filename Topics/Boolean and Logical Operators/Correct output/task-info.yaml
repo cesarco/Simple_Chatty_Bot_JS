@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "null"
+- text: error
+- text: "true"
+- text: "false"
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8473#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 22 Nov 2022 02:06:56 UTC"
+record: -1
+selected_options:
+- 3
+local_check: false
